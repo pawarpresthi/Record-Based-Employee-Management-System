@@ -37,6 +37,6 @@ The Employee Management System is a Java-based application designed to streamlin
 
 <img width="1744" height="969" alt="Screenshot 2025-12-23 211427" src="https://github.com/user-attachments/assets/30f8f5ff-e51d-4304-a685-5246efdb3f9b" />
 
-<img width="1348" height="1054" alt="Screenshot 2025-12-23 211742" src="https://github.com/user-attachments/assets/b8561659-683d-4ee2-96ef-dc87a713fed7" />
+
 
 
