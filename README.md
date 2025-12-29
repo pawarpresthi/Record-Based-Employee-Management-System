@@ -1,3 +1,4 @@
+<img width="665" height="591" alt="Screenshot 2025-12-24 101038" src="https://github.com/user-attachments/assets/34351472-17bd-4640-9446-e8274b33dca4" />
 # Record-Based-Employee-Management-System
 The Employee Management System is a Java-based application designed to streamline the handling of employee records within an organization.  It leverages database connectivity (JDBC with MySQL or similar) to perform essential operations on employee data.
 
